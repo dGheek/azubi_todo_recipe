@@ -1,0 +1,39 @@
+Introduction
+Welcome to our collaborative recipe book project! In this project, you will create a recipe book containing each member's favorite recipe.
+
+Title: Nigerian Recipe Book 
+
+**1. Jollof Rice:** A beloved West African dish made with rice, tomatoes, peppers, and various spices. It can be served with chicken, beef, or fish.
+
+**2. Egusi Soup:** A hearty soup made with ground melon seeds, vegetables, and sometimes meat or fish. It's often served with pounded yam or fufu.
+
+**3. Suya:** Grilled skewers of marinated and seasoned meat, usually served with a spicy peanut sauce.
+
+**4. Pounded Yam and Egusi Soup:** Pounded yam is a staple side dish in Nigerian cuisine, often served with a thick and delicious egusi soup.
+
+**5. Chinchinga (Nigerian Kebabs):** Skewers of grilled meat, often served with a spicy sauce.
+
+**6. Akara:** Deep-fried bean cakes made from black-eyed peas and spices.
+
+**7. Moi Moi:** A steamed bean pudding made from black-eyed peas, peppers, onions, and other seasonings.
+
+**8. Fried Plantains:** Slices of ripe plantains fried until golden and served as a side dish or snack.
+
+**9. Nigerian Pepper Soup:** A spicy and flavorful broth typically made with goat meat, chicken, or fish and various spices.
+
+**10. Pounded Yam and Egusi Soup:** Pounded yam is a popular side dish, often served with a thick egusi (melon seed) soup.
+
+**11. Nigerian Sausage Rolls:** Pastry rolls filled with spiced sausage meat, a popular snack or party food.
+
+**12. Nigerian Meat Pie:** Savory pastry filled with minced meat, vegetables, and spices.
+
+**13. Nigerian Fried Rice:** A flavorful fried rice dish made with vegetables, shrimp, and/or chicken, seasoned with curry powder and other spices.
+
+**14. Ogbono Soup:** A thick, hearty soup made from ground ogbono seeds, vegetables, and often meat or fish.
+
+**15. Nigerian Coconut Rice:** A delicious rice dish cooked in coconut milk, often served with fried plantains.
+
+**16. Nigerian Akamu/Pap:** A popular Nigerian breakfast dish made from fermented maize or millet and served as a pudding.
+
+**17. Nigerian Pounded Yam and Oha Soup:** A variation of pounded yam served with a traditional Oha soup made from Ora leaves.
+
